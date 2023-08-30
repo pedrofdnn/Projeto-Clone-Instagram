@@ -339,12 +339,6 @@ form {
   text-shadow: #0056b3 2px 1px 3px;
 }
 
-@media (max-width: 2560px) {
-  article {
-    margin-bottom: 101px;
-  }
-}
-
 @media (max-width: 1440px) {
   article {
     margin-bottom: 101px;
